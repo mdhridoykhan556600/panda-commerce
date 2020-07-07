@@ -1,0 +1,105 @@
+/*start navbar section*/
+.navgationbar .container{
+    width:70%;
+
+}
+/*end navbar section*/
+
+/*start img-silerd section*/
+.img-silerd .container{
+    width: 70%;
+    margin-top: 70px;
+}
+.pink-color{
+   background: #FEEAE9;
+   padding: 60px;
+   border-radius: 10px;
+}
+.buy-now-button{
+    text-decoration: none;
+    background: #FF2178;
+    padding: 5px 30px;
+    border-radius: 5px;
+    color: white;
+}
+/*end img-silerd section*/
+/*start watch-bags-shoes section*/
+.watch-bags-shoes{
+
+}
+.watch-bags-shoes .container{
+    width: 70%;
+}
+.cat1{
+    background-color:#F2AD26 ;
+}
+.cat2{
+    background-color:#EC337C ;
+}
+.cat3{
+    background-color: #3841FB;
+}
+.cat1,.cat2, .cat3 {
+    margin-top: 60px;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+.cat1,.cat2, .cat3 h1{
+    color: #fff;
+}
+.watch-bags-shoes img{ 
+    width: 100px;
+}
+
+/*end watch-bags-shoes section*/
+/*start shoes-collationsection*/
+.shoes-collation{
+
+}
+.shoes-collation .container{
+    margin-top: 50px;
+    margin-bottom: 60px;
+    width: 70%;
+}
+.card{
+  box-shadow: 5px 5px 10px gray ;
+  border-radius: 10px;
+}
+/*end shoes-collationsection*/
+
+
+/*start bags-collation section*/
+.bags-collation .container{
+  width: 70%;
+}
+/*end bags-collation section*/
+/*start submit section*/
+
+.submit-area .container{
+  width: 70%;
+  background-color: #FEEAE9;
+  height: 200px;
+  margin-top: 50px;
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+.submit-area p{
+  color: gray;
+}
+.submit-area p{
+  color: gray;
+}
+.submit-area input{
+  width: 230px;
+  height: 20px;
+  margin-bottom: 5px;
+}
+
+/*end submit section*/
+/*start footer section*/
+.footer{
+  text-align: center;
+}
+/*end footer section*/
+
+
